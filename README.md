@@ -2,7 +2,7 @@
 My solution of Shinchan's good array in Java.
 <p>
   Shinchan's Good Array has the properties: <br>
-  - Odd elements are in sorted order. <br>
+  * Odd elements are in sorted order. <br>
   - Even elements are in sorted order. <br>
   - Odd elements occupy odd positions. <br>
   - Even elements occupy even positions. <br>
